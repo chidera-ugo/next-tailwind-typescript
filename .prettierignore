@@ -35,6 +35,5 @@ yarn-error.log*
 
 # others
 **/*.d.ts
-**/*.config.js
 **/*.md
 **/*.lock

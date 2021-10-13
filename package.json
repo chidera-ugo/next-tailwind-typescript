@@ -1,7 +1,7 @@
 {
-	"name": "landing",
+	"name": "next-tailwind-typescript",
 	"version": "0.1.0",
-	"private": true,
+	"license": "BSD-3-Clause",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
@@ -11,12 +11,9 @@
 		"checkErrors": "yarn lint && yarn prettier",
 		"prettier": "prettier --check .",
 		"prettierWrite": "prettier --write .",
-		"push": "git push && git push private",
 		"deploy": "yarn lintFix && yarn prettierWrite && tsc && git add . && git commit -m"
 	},
 	"dependencies": {
-		"@tailwindcss/forms": "^0.3.4",
-		"@tailwindcss/line-clamp": "^0.2.2",
 		"next": "11.1.2",
 		"prettier": "^2.4.1",
 		"react": "17.0.2",

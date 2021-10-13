@@ -1,3 +1,3 @@
-# Landing Page for Delbott
+## Next - Tailwind - Typescript
 
-Copyright © 2021 Delbott. All rights reserved.
+Next JS project template with Tailwind CSS and Typescript.
