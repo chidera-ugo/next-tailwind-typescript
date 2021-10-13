@@ -24,8 +24,8 @@ const Hero = (): JSX.Element => {
 				xmlns="http://www.w3.org/2000/svg"
 			>
 				<path
-					fill-rule="evenodd"
-					clip-rule="evenodd"
+					fillRule="evenodd"
+					clipRule="evenodd"
 					className="
           fill-current
           text-white
@@ -60,8 +60,8 @@ const Hero = (): JSX.Element => {
 						xmlns="http://www.w3.org/2000/svg"
 					>
 						<path
-							fill-rule="evenodd"
-							clip-rule="evenodd"
+							fillRule="evenodd"
+							clipRule="evenodd"
 							d="M415.165 207.796C424.466 245.865 397.519 282.837 376.004 315.592C354 349.09 328.151 381.155 291.159 396.585C252.829 412.573 202.178 427.541 169.718 401.637C135.591 374.403 170.173 309.867 141.373 277.052C108.405 239.487 27.1886 263.335 7.8809 217.237C-9.20139 176.451 41.36 137.834 68.4147 102.857C93.982 69.8018 120.622 36.5867 159.49 21.229C199.338 5.48377 248.848 -5.92169 284.824 17.3468C320.393 40.3526 307.296 97.345 331.22 132.301C353.007 164.136 406.009 170.324 415.165 207.796Z"
 						/>
 					</svg>

@@ -7,7 +7,7 @@ const LinkedPins = (): JSX.Element => {
 			fill="none"
 			xmlns="http://www.w3.org/2000/svg"
 		>
-			<g clip-path="url(#clip0)">
+			<g clipPath="url(#clip0)">
 				<path
 					d="M19.8169 44.9606C19.4042 44.9606 19.0009 44.795 18.7102 44.5042C18.4192 44.2103 18.2538 43.8071 18.2538 43.3976C18.2538 42.9849 18.4192 42.5849 18.7102 42.294C19.0009 42.0032 19.4042 41.8345 19.8169 41.8345C20.2262 41.8345 20.6296 42.0032 20.9202 42.294C21.2112 42.5847 21.38 42.988 21.38 43.3976C21.38 43.8071 21.2112 44.2105 20.9202 44.5042C20.6296 44.795 20.2262 44.9606 19.8169 44.9606Z"
 					fill="#7662BD"
@@ -70,8 +70,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="9.95804"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#AB2C37" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#AB2C37" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint1_linear"
@@ -81,8 +81,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="30.5876"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#FF4757" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#FF4757" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint2_linear"
@@ -92,8 +92,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="12.6637"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#C5BAEB" />
-					<stop offset="1" stop-color="#D7D1EB" />
+					<stop stopColor="#C5BAEB" />
+					<stop offset="1" stopColor="#D7D1EB" />
 				</linearGradient>
 				<linearGradient
 					id="paint3_linear"
@@ -103,8 +103,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="43.7625"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#AB2C37" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#AB2C37" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint4_linear"
@@ -114,8 +114,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="64.4099"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#FF4757" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#FF4757" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint5_linear"
@@ -125,8 +125,8 @@ const LinkedPins = (): JSX.Element => {
 					y2="46.4679"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#C5BAEB" />
-					<stop offset="1" stop-color="#D7D1EB" />
+					<stop stopColor="#C5BAEB" />
+					<stop offset="1" stopColor="#D7D1EB" />
 				</linearGradient>
 				<clipPath id="clip0">
 					<rect

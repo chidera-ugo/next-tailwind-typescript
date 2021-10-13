@@ -1,6 +1,5 @@
 const WorldMapAgent = (): JSX.Element => {
-
-  return (
+	return (
 		<svg
 			width="987"
 			height="717"
@@ -24864,9 +24863,9 @@ const WorldMapAgent = (): JSX.Element => {
 					width="761.38"
 					height="716.516"
 					filterUnits="userSpaceOnUse"
-					color-interpolation-filters="sRGB"
+					colorInterpolationFilters="sRGB"
 				>
-					<feFlood flood-opacity="0" result="BackgroundImageFix" />
+					<feFlood floodOpacity="0" result="BackgroundImageFix" />
 					<feColorMatrix
 						in="SourceAlpha"
 						type="matrix"
@@ -24895,7 +24894,6 @@ const WorldMapAgent = (): JSX.Element => {
 			</defs>
 		</svg>
 	)
-
 }
 
 export default WorldMapAgent

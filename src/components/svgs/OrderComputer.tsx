@@ -11,63 +11,63 @@ const OrderComputer = (): JSX.Element => {
 				d="M57.2463 0.550369H584.474C587.385 0.550369 590.177 1.70674 592.235 3.76511C594.293 5.82348 595.45 8.61522 595.45 11.5262V357.013H46.2705V11.5262C46.2705 8.61522 47.4269 5.82348 49.4852 3.76511C51.5436 1.70674 54.3354 0.550369 57.2463 0.550369Z"
 				fill="#263238"
 				stroke="#263238"
-				stroke-miterlimit="10"
+				strokeMiterlimit="10"
 			/>
 			<path
 				d="M572.869 24.7685H68.7153V322.962H572.869V24.7685Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M246.469 114.317H78.5685V139.385H246.469V114.317Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M246.469 241.085H78.5685V266.153H246.469V241.085Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M420.256 114.317H252.356V139.385H420.256V114.317Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M246.469 208.367H78.5685V233.435H246.469V208.367Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M420.256 208.367H252.356V233.435H420.256V208.367Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M419.533 145.66H78.5685V170.728H419.533V145.66Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M419.533 177.003H78.5685V202.071H419.533V177.003Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M85.0113 79.9415C87.0155 79.9415 87.9389 81.1587 87.9389 83.1523V89.6896C87.9389 91.6518 87.0155 92.8375 85.0113 92.8375H81.9893V79.9415H85.0113ZM85.0113 91.4839C86.0606 91.4839 86.5433 90.8333 86.5433 89.6581V83.0264C86.5433 81.8512 86.0396 81.2111 84.9903 81.2111H83.4478V91.4839H85.0113Z"
@@ -409,70 +409,70 @@ const OrderComputer = (): JSX.Element => {
 				d="M572.869 24.7685H68.7153V56.1115H572.869V24.7685Z"
 				fill="#00A3FF"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M299.302 33.7297H226.774V56.1115H299.302V33.7297Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M379.889 33.7297H307.361V56.1115H379.889V33.7297Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M460.487 33.7297H387.959V56.1115H460.487V33.7297Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M541.074 33.7297H468.546V56.1115H541.074V33.7297Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M510.833 339.856H133.406V358.45H510.833V339.856Z"
 				fill="#263238"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M510.833 348.807H133.406V358.45H510.833V348.807Z"
 				fill="white"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M1.86365 369.468C1.86365 369.468 8.0546 377.044 26.6484 383.245H617.58C617.58 383.245 631.358 379.804 637.517 370.161L1.86365 369.468Z"
 				fill="#263238"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M636.908 355.9H2.57707C1.48178 355.9 0.593872 356.788 0.593872 357.884V368.398C0.593872 369.493 1.48178 370.381 2.57707 370.381H636.908C638.003 370.381 638.891 369.493 638.891 368.398V357.884C638.891 356.788 638.003 355.9 636.908 355.9Z"
 				fill="#969696"
 				stroke="#263238"
-				stroke-miterlimit="10"
+				strokeMiterlimit="10"
 			/>
 			<path
 				d="M325.535 11.3373C325.535 10.3847 325.252 9.45354 324.723 8.6615C324.194 7.86945 323.442 7.25213 322.562 6.88759C321.682 6.52305 320.713 6.42767 319.779 6.61351C318.845 6.79935 317.986 7.25807 317.313 7.93165C316.639 8.60523 316.181 9.46341 315.995 10.3977C315.809 11.332 315.904 12.3004 316.269 13.1805C316.633 14.0605 317.251 14.8127 318.043 15.342C318.835 15.8712 319.766 16.1537 320.719 16.1537C321.996 16.1537 323.221 15.6462 324.124 14.743C325.027 13.8398 325.535 12.6147 325.535 11.3373Z"
 				fill="#263238"
 				stroke="#263238"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M51.4437 100.865C51.0791 100.865 50.7295 100.72 50.4717 100.462C50.2139 100.204 50.0691 99.8547 50.0691 99.4902V59.5428C50.08 59.1855 50.2296 58.8466 50.4862 58.5978C50.7429 58.349 51.0863 58.21 51.4437 58.2102C51.8092 58.2101 52.16 58.3546 52.4194 58.6121C52.6789 58.8696 52.826 59.2192 52.8288 59.5848V99.5321C52.8178 99.8912 52.6667 100.232 52.4079 100.481C52.149 100.73 51.8029 100.868 51.4437 100.865Z"
@@ -486,26 +486,14 @@ const OrderComputer = (): JSX.Element => {
 				d="M522.397 77.8533H508.861V87.8008H522.397V77.8533Z"
 				fill="white"
 			/>
-			<path d="M463.887 99.742H472.239" stroke="white" stroke-miterlimit="10" />
-			<path
-				d="M463.887 81.8302H472.239"
-				stroke="white"
-				stroke-miterlimit="10"
-			/>
-			<path
-				d="M463.887 111.284H472.239"
-				stroke="white"
-				stroke-miterlimit="10"
-			/>
-			<path
-				d="M477.014 111.284H485.377"
-				stroke="white"
-				stroke-miterlimit="10"
-			/>
-			<path d="M476.227 99.742H484.579" stroke="white" stroke-miterlimit="10" />
-			<path d="M488.567 99.742H496.919" stroke="white" stroke-miterlimit="10" />
-			<path d="M500.896 99.742H509.259" stroke="white" stroke-miterlimit="10" />
-			<path d="M513.236 99.742H521.599" stroke="white" stroke-miterlimit="10" />
+			<path d="M463.887 99.742H472.239" stroke="white" strokeMiterlimit="10" />
+			<path d="M463.887 81.8302H472.239" stroke="white" strokeMiterlimit="10" />
+			<path d="M463.887 111.284H472.239" stroke="white" strokeMiterlimit="10" />
+			<path d="M477.014 111.284H485.377" stroke="white" strokeMiterlimit="10" />
+			<path d="M476.227 99.742H484.579" stroke="white" strokeMiterlimit="10" />
+			<path d="M488.567 99.742H496.919" stroke="white" strokeMiterlimit="10" />
+			<path d="M500.896 99.742H509.259" stroke="white" strokeMiterlimit="10" />
+			<path d="M513.236 99.742H521.599" stroke="white" strokeMiterlimit="10" />
 		</svg>
 	)
 }

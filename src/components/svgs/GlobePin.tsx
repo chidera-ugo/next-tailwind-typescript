@@ -7,7 +7,7 @@ const GlobePin = (): JSX.Element => {
 			fill="none"
 			xmlns="http://www.w3.org/2000/svg"
 		>
-			<g clip-path="url(#clip0)">
+			<g clipPath="url(#clip0)">
 				<path
 					d="M50.0009 99.9908C74.112 99.9908 93.6579 80.4449 93.6579 56.3338C93.6579 32.2227 74.112 12.6768 50.0009 12.6768C25.8898 12.6768 6.34387 32.2227 6.34387 56.3338C6.34387 80.4449 25.8898 99.9908 50.0009 99.9908Z"
 					fill="url(#paint0_radial)"
@@ -54,8 +54,8 @@ const GlobePin = (): JSX.Element => {
 					gradientUnits="userSpaceOnUse"
 					gradientTransform="translate(55.9517 38.953) rotate(-11.9506) scale(40.2911)"
 				>
-					<stop stop-color="#79D3FE" />
-					<stop offset="1" stop-color="#2F97F7" />
+					<stop stopColor="#79D3FE" />
+					<stop offset="1" stopColor="#2F97F7" />
 				</radialGradient>
 				<radialGradient
 					id="paint1_radial"
@@ -65,10 +65,10 @@ const GlobePin = (): JSX.Element => {
 					gradientUnits="userSpaceOnUse"
 					gradientTransform="translate(54.0445 39.2524) scale(101.876)"
 				>
-					<stop stop-color="#06DAAE" />
-					<stop offset="0.2214" stop-color="#0CCDA8" />
-					<stop offset="0.6285" stop-color="#1DAB9A" />
-					<stop offset="1" stop-color="#2F878A" />
+					<stop stopColor="#06DAAE" />
+					<stop offset="0.2214" stopColor="#0CCDA8" />
+					<stop offset="0.6285" stopColor="#1DAB9A" />
+					<stop offset="1" stopColor="#2F878A" />
 				</radialGradient>
 				<radialGradient
 					id="paint2_radial"
@@ -78,10 +78,10 @@ const GlobePin = (): JSX.Element => {
 					gradientUnits="userSpaceOnUse"
 					gradientTransform="translate(26.7328 20.087) scale(10.9848)"
 				>
-					<stop stop-color="#06DAAE" />
-					<stop offset="0.2214" stop-color="#0CCDA8" />
-					<stop offset="0.6285" stop-color="#1DAB9A" />
-					<stop offset="1" stop-color="#2F878A" />
+					<stop stopColor="#06DAAE" />
+					<stop offset="0.2214" stopColor="#0CCDA8" />
+					<stop offset="0.6285" stopColor="#1DAB9A" />
+					<stop offset="1" stopColor="#2F878A" />
 				</radialGradient>
 				<radialGradient
 					id="paint3_radial"
@@ -91,10 +91,10 @@ const GlobePin = (): JSX.Element => {
 					gradientUnits="userSpaceOnUse"
 					gradientTransform="translate(55.7307 78.8811) scale(38.9763)"
 				>
-					<stop stop-color="#06DAAE" />
-					<stop offset="0.2214" stop-color="#0CCDA8" />
-					<stop offset="0.6285" stop-color="#1DAB9A" />
-					<stop offset="1" stop-color="#2F878A" />
+					<stop stopColor="#06DAAE" />
+					<stop offset="0.2214" stopColor="#0CCDA8" />
+					<stop offset="0.6285" stopColor="#1DAB9A" />
+					<stop offset="1" stopColor="#2F878A" />
 				</radialGradient>
 				<radialGradient
 					id="paint4_radial"
@@ -104,10 +104,10 @@ const GlobePin = (): JSX.Element => {
 					gradientUnits="userSpaceOnUse"
 					gradientTransform="translate(58.2211 35.8322) scale(131.183)"
 				>
-					<stop stop-color="#06DAAE" />
-					<stop offset="0.2214" stop-color="#0CCDA8" />
-					<stop offset="0.6285" stop-color="#1DAB9A" />
-					<stop offset="1" stop-color="#2F878A" />
+					<stop stopColor="#06DAAE" />
+					<stop offset="0.2214" stopColor="#0CCDA8" />
+					<stop offset="0.6285" stopColor="#1DAB9A" />
+					<stop offset="1" stopColor="#2F878A" />
 				</radialGradient>
 				<linearGradient
 					id="paint5_linear"
@@ -117,8 +117,8 @@ const GlobePin = (): JSX.Element => {
 					y2="9.08486"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#AB2C37" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#AB2C37" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint6_linear"
@@ -128,8 +128,8 @@ const GlobePin = (): JSX.Element => {
 					y2="28.2013"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#FF4757" />
-					<stop offset="1" stop-color="#FF7A85" />
+					<stop stopColor="#FF4757" />
+					<stop offset="1" stopColor="#FF7A85" />
 				</linearGradient>
 				<linearGradient
 					id="paint7_linear"
@@ -139,8 +139,8 @@ const GlobePin = (): JSX.Element => {
 					y2="11.5973"
 					gradientUnits="userSpaceOnUse"
 				>
-					<stop stop-color="#C5BAEB" />
-					<stop offset="1" stop-color="#D7D1EB" />
+					<stop stopColor="#C5BAEB" />
+					<stop offset="1" stopColor="#D7D1EB" />
 				</linearGradient>
 				<clipPath id="clip0">
 					<rect width="100" height="100" fill="white" />

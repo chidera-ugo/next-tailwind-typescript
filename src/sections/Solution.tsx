@@ -29,7 +29,7 @@ const Solution = (): JSX.Element => {
         "
 				>
 					<img
-						src="~/assets/images/store-mockup.jpg"
+						src="/store-mockup.jpg"
 						className="inset-0 z-20 transform h-circle -rotate-12"
 						my-auto
 					/>

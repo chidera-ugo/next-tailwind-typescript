@@ -59,9 +59,9 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M464.1 369.731L428.559 342.778"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M351.759 556.964L353.76 580.871C353.76 580.871 363.879 585.571 363.86 587.145C363.841 588.718 361.954 590.877 353.702 590.877C345.451 590.877 342.764 587.568 342.764 585.087C342.764 582.605 325.193 561.927 325.193 561.927C324.762 560.686 324.643 559.347 324.846 558.043C325.05 556.738 325.57 555.511 326.355 554.483C329.1 551.174 338.476 550.771 338.476 550.771L351.759 556.964Z"
@@ -70,16 +70,16 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M363.841 588.739C363.841 588.739 350.101 587.79 346.423 585.571C342.745 583.352 329.652 562.25 328.604 560.576C327.919 559.209 327.559 557.685 327.556 556.137"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M334.15 551.115C334.15 551.115 323.001 553.355 324.069 558.418C325.136 563.482 342.63 585.936 345.279 588.679C347.928 591.423 364.336 591.483 363.841 588.679C363.345 585.875 353.76 580.812 353.76 580.812L350.577 560.638"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M568.934 576.39L601.75 593.356C601.75 593.356 606.038 596.665 597.443 596.665C588.848 596.665 543.549 597.068 543.549 597.068C543.549 597.068 538.461 598.319 537.299 595.838C535.393 591.803 534.554 589.22 535.736 587.97C536.918 586.719 568.934 576.39 568.934 576.39Z"
@@ -88,16 +88,16 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M598.663 592.773H540.443"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M571.144 578.553C571.144 578.553 604.57 593.724 604.037 595.398C603.503 597.072 570.096 597.093 557.366 597.093C544.636 597.093 535.603 597.657 535.603 594.288"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M334.15 551.115L444.471 465.759L448.283 379.839C452.349 383.627 456.937 386.736 461.89 389.058C468.712 391.822 508.237 412.964 508.237 412.964C508.237 412.964 490.723 478.671 487.541 484.299C484.358 489.928 350.672 560.657 350.672 560.657L334.15 551.115Z"
@@ -110,23 +110,23 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M606 435.68L595.518 449.559L599.711 431.241"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M502.691 414.032C502.691 414.032 481.194 449.558 473.324 456.781"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M499.547 412.922C493.621 418.411 487.314 423.421 480.68 427.911"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<g style={{ mixBlendMode: "multiply" }}>
 				<path
@@ -137,72 +137,72 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M535.888 278.545L531.162 300.736"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M527.237 316.933L519.804 348.949L464.1 369.728L470.999 316.933"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M471.533 312.457L473.648 298.981"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M405.747 325.932L390.902 314.13L398.334 247.314"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M466.235 295.047L425.91 263.031"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M428.025 234.384L461.451 224.841L534.669 277.636"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M534.135 279.877L522.987 283.246"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M503.892 287.743L473.648 296.72"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M433.342 233.274L478.965 270.333"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M482.681 273.703L499.127 287.179"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M432.199 202.287C432.199 202.287 420.612 303.459 420.612 307.958C420.612 312.457 431.227 314.696 431.227 320.304C431.524 324.904 432.415 329.438 433.876 333.781C433.876 333.781 435.991 336.04 435.991 337.815C435.991 339.591 432.275 338.945 429.092 337.271C425.91 335.596 424.862 329.403 424.862 329.403C425.59 333.114 426.118 336.865 426.443 340.64L428.559 342.879C428.559 342.879 434.924 349.052 430.693 349.617C426.463 350.182 406.815 342.314 405.747 337.271C404.68 332.227 408.415 308.059 408.415 308.059C408.415 308.059 393.017 194.056 393.017 183.384C392.943 180.402 393.713 177.464 395.227 174.948C396.742 172.431 398.932 170.452 401.517 169.262"
@@ -217,30 +217,30 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M432.199 202.287C432.199 202.287 420.612 303.459 420.612 307.958C420.612 312.457 431.227 314.696 431.227 320.304C431.524 324.904 432.415 329.438 433.876 333.781C433.876 333.781 435.991 336.04 435.991 337.815C435.991 339.591 432.275 338.945 429.092 337.271C425.91 335.596 424.862 329.403 424.862 329.403C425.59 333.114 426.118 336.865 426.443 340.64L428.559 342.879C428.559 342.879 434.924 349.052 430.693 349.617C426.463 350.182 406.815 342.314 405.747 337.271C404.68 332.227 408.415 308.059 408.415 308.059C408.415 308.059 393.017 194.056 393.017 183.384C392.943 180.402 393.713 177.464 395.227 174.948C396.742 172.431 398.932 170.452 401.517 169.262"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M419.373 336.321C418.796 338.718 418.984 341.25 419.907 343.523C420.95 345.327 422.177 347.005 423.566 348.526"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M413.027 336.321C413.34 338.591 413.87 340.822 414.609 342.978"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M408.301 334.648C408.622 336.917 409.151 339.146 409.883 341.306"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M579.682 124.397C580.292 118.587 591.268 107.613 606.514 104.385C621.76 101.157 638.244 101.157 644.343 106.402C646.629 108.319 648.154 112.777 649.145 117.579C648.059 115.117 645.867 110.134 643.599 108.137C632.375 98.2317 629.249 104.102 627.382 112.757C625.514 121.412 628.011 145.035 628.011 145.035C628.011 145.035 653.585 152.964 649.85 139.084C650.399 137.106 650.781 135.081 650.993 133.032C650.993 134.061 650.993 134.686 650.993 134.686L652.213 143.078L662.58 145.096L698.598 143.885C698.598 143.885 680.265 155.99 669.898 155.99C663.199 155.698 656.779 153.066 651.641 148.505L584.942 153.892C584.942 153.892 579.072 130.207 579.682 124.397Z"
@@ -249,9 +249,9 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M657.435 144.529L698.674 143.863C698.674 143.863 687.24 155.282 671.994 155.282C656.749 155.282 651.68 148.564 651.68 148.564L584.98 153.95C584.98 153.95 576.271 136.379 580.711 120.946C585.151 105.513 625.171 100.328 636.301 103.172C650.06 106.703 650.974 119.009 650.974 125.727C651.075 130.681 651.502 135.623 652.251 140.514"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<g style={{ mixBlendMode: "multiply" }} opacity="0.3">
 				<path
@@ -262,9 +262,9 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M654.252 150.583C654.252 150.583 661.246 168.054 658.064 170.757C654.881 173.46 652.994 174.792 652.994 174.792C652.994 174.792 651.089 198.294 647.925 202.329C644.762 206.364 624.447 199.646 624.447 199.646C624.447 199.646 583.264 243.282 581.93 235.213C580.596 227.143 585.742 196.882 585.742 193.574C585.742 190.265 594.623 181.469 594.623 181.469"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M617.453 151.249C617.453 151.249 616.195 157.301 612.384 157.967C608.572 158.633 605.409 151.915 605.409 151.915L617.453 151.249Z"
@@ -277,16 +277,16 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M596.604 153.951C596.604 153.951 594.699 163.352 596.604 168.073C598.51 172.794 606.133 171.422 606.133 171.422L609.944 181.509"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M648.478 178.663C648.478 178.663 641.122 180.337 636.415 171.44"
 				stroke="#263238"
-				stroke-width="0.626315"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.626315"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M517.867 222.36L533.46 228.44L524.654 253.75L509.06 247.67L517.867 222.36Z"
@@ -300,30 +300,30 @@ const AgentClock = (): JSX.Element => {
 				d="M526.092 218.498L529.383 219.781L526.702 227.486L523.411 226.203L526.092 218.498Z"
 				fill="white"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M542.425 329.102L528.304 346.149"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M397.362 118.766L411.369 127.32L419.278 112.693L405.29 104.16L397.362 118.766Z"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M402.088 102.124L424.137 115.6L437.268 89.858L415.219 76.3818L402.088 102.124Z"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M189.8 429.194C123.594 359.108 123.594 245.475 189.8 175.389C256.007 105.303 363.349 105.303 429.555 175.389C495.761 245.475 495.761 359.108 429.555 429.194C363.349 499.28 256.007 499.28 189.8 429.194Z"
@@ -333,72 +333,72 @@ const AgentClock = (): JSX.Element => {
 				d="M308.194 92.0376C346.902 92.0256 384.744 104.166 416.933 126.922C449.123 149.678 474.215 182.029 489.036 219.883C503.856 257.736 507.74 299.393 500.195 339.583C492.651 379.773 474.017 416.692 446.65 445.671C419.284 474.65 384.414 494.386 346.451 502.385C308.488 510.383 269.137 506.284 233.374 490.606C197.612 474.928 167.045 448.375 145.539 414.305C124.033 380.236 112.554 340.18 112.554 299.204C112.554 244.27 133.164 191.586 169.852 152.737C206.54 113.887 256.302 92.0537 308.194 92.0376ZM308.194 478.671C341.739 478.671 374.531 468.141 402.423 448.412C430.315 428.683 452.054 400.641 464.892 367.833C477.729 335.025 481.088 298.924 474.543 264.095C467.999 229.266 451.845 197.274 428.125 172.163C404.405 147.053 374.184 129.953 341.283 123.025C308.382 116.097 274.28 119.653 243.288 133.242C212.296 146.832 185.807 169.845 167.17 199.372C148.533 228.898 138.586 263.612 138.586 299.123C138.586 322.702 142.973 346.049 151.496 367.833C160.02 389.617 172.513 409.41 188.263 426.083C204.012 442.755 222.71 455.981 243.288 465.004C263.866 474.027 285.921 478.671 308.194 478.671Z"
 				fill="#263238"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M188.115 142.936C207.618 126.113 230.083 113.558 254.205 105.997"
 				stroke="white"
-				stroke-width="1.67017"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="1.67017"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M272.252 101.357C279.184 99.9649 286.182 98.9749 293.215 98.3916"
 				stroke="white"
-				stroke-width="1.67017"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="1.67017"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M165.456 409.956C142.593 376.906 130.587 336.837 131.275 295.879C131.964 254.921 145.308 215.329 169.268 183.161"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M190.192 438.785C184.635 433.531 179.403 427.905 174.527 421.94"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M380.135 470.4C350.392 484.383 317.587 489.426 285.316 484.978C253.045 480.53 222.554 466.761 197.186 445.182"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M405.385 455.774C400.092 459.447 394.614 462.814 388.977 465.861"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M424.366 440.52C419.903 444.632 415.247 448.504 410.416 452.12"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M357.133 119.13C387.205 128.297 414.443 145.741 436.072 169.682C457.701 193.623 472.948 223.207 480.258 255.418C487.568 287.63 486.681 321.317 477.686 353.047C468.691 384.777 451.91 413.415 429.054 436.043"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M183.065 166.742C203.766 144.855 229.264 128.735 257.283 119.818C285.302 110.902 314.97 109.467 343.64 115.641"
 				stroke="white"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M282.829 365.553H333.75V380.159H282.829V365.553Z"
@@ -415,114 +415,114 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M308.194 129.802V159.68"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M308.194 439.754V469.632"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M388.443 152.577L374.341 178.44"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M242.047 420.995L227.944 446.878"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M447.197 214.755L422.765 229.704"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M193.642 369.729L169.191 384.678"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M147.695 299.728H175.918"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M440.488 299.728H468.712"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M147.695 299.728H175.918"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M440.488 299.728H468.712"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M169.191 214.755L193.642 229.704"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M422.765 369.729L447.197 384.678"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M227.944 152.577L242.047 178.44"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M374.341 420.995L388.443 446.878"
 				stroke="#263238"
-				stroke-width="3.34035"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="3.34035"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M300.114 85.5186H316.274V100.649H300.114V85.5186Z"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M295.464 45.0898H320.924V84.6509H295.464V45.0898Z"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M290.166 17.2507H327.022V44.2031H290.166V17.2507Z"
@@ -531,51 +531,51 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M289.766 17.2507H326.622V44.2031H289.766V17.2507Z"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M322.525 33.9828V17.8235"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M322.525 44.7085V37.7485"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M317.837 44.675V17.8235"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M313.149 24.5414V17.8235"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M313.149 44.7097V27.804"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M305.393 44.675V17.8235"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<g style={{ mixBlendMode: "multiply" }} opacity="0.3">
 				<path
@@ -592,16 +592,16 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M607.334 228.21C607.334 228.21 629.611 247.315 629.611 252.419C629.611 257.523 631.212 352.38 630.145 354.62C629.078 356.859 587.076 325.932 587.076 325.932L591.326 284.939"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M603.084 274.832L557.995 313.021"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<g style={{ mixBlendMode: "multiply" }} opacity="0.3">
 				<path
@@ -612,51 +612,51 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M572.554 188.47C572.554 188.47 528.818 144.47 523.52 144.47C518.223 144.47 430.693 162.99 424.328 164.12C417.963 165.249 407.348 167.489 407.348 167.489C407.348 167.489 425.91 192.202 432.275 200.614C438.64 209.027 441.804 214.09 441.804 214.09L513.42 179.29"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M501.243 187.781L483.196 238.317"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M556.413 263.594L560.663 268.093L581.34 240.011"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M521.577 189.78L500.595 185.886L518.432 199.201"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M591.421 284.939L618.063 280.803"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M606.266 218.104C608.181 223.121 608.37 228.691 606.8 233.84C604.151 242.253 595.137 256.859 595.137 256.859L583.474 239.448"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M579.758 232.711C579.758 232.711 573.907 227.103 568.61 227.103H559.596C559.596 227.103 561.177 205.194 568.61 193.392C576.042 181.591 586.123 187.784 586.123 187.784"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M589.306 329.304L525.636 297.853L520.338 278.204L498.594 273.201C498.594 273.201 494.344 268.702 494.877 273.201C495.411 277.699 501.243 279.374 503.358 283.873C505.473 288.371 505.492 297.349 508.141 301.283C510.79 305.217 520.338 309.715 520.338 309.715C520.338 309.715 591.954 373.162 597.252 376.532C602.55 379.901 613.165 347.885 613.165 347.885"
@@ -671,23 +671,23 @@ const AgentClock = (): JSX.Element => {
 			<path
 				d="M589.306 329.304L525.636 297.853L520.338 278.204L498.594 273.201C498.594 273.201 494.344 268.702 494.877 273.201C495.411 277.699 501.243 279.374 503.358 283.873C505.473 288.371 505.492 297.349 508.141 301.283C510.79 305.217 520.338 309.715 520.338 309.715C520.338 309.715 591.954 373.163 597.252 376.532C602.55 379.901 613.165 347.885 613.165 347.885"
 				stroke="#263238"
-				stroke-width="0.835087"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.835087"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M498.594 273.198C498.594 273.198 508.98 279.754 507.932 281.973"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 			<path
 				d="M506.884 275.257L514.754 279.695"
 				stroke="#263238"
-				stroke-width="0.417543"
-				stroke-linecap="round"
-				stroke-linejoin="round"
+				strokeWidth="0.417543"
+				strokeLinecap="round"
+				strokeLinejoin="round"
 			/>
 		</svg>
 	)
